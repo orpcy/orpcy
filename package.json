@@ -2,7 +2,7 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://orpcy.github.io/portfolio-new/",
+  "homepage": "https://orpcy.github.io/orpcy/",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "express": "^4.17.1",

@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "168f148174b5da8be8d4afee652234b6",
+    "revision": "6734577faf8a3fcb3e07b8d7fe976e4b",
     "url": "/orpcy/index.html"
   },
   {
-    "revision": "d5909391aad961beeff9",
+    "revision": "b45e4d3a0fb5caa98143",
     "url": "/orpcy/static/css/2.8cf600a9.chunk.css"
   },
   {
-    "revision": "d30da79610a593d7b890",
-    "url": "/orpcy/static/css/main.5c9154d0.chunk.css"
+    "revision": "02ac3c0778819cb2a10a",
+    "url": "/orpcy/static/css/main.7ec781f4.chunk.css"
   },
   {
-    "revision": "d5909391aad961beeff9",
-    "url": "/orpcy/static/js/2.769815ec.chunk.js"
+    "revision": "b45e4d3a0fb5caa98143",
+    "url": "/orpcy/static/js/2.ae5813b1.chunk.js"
   },
   {
     "revision": "f2e097a5fa04a5d1b01656a6cd1a1a1a",
-    "url": "/orpcy/static/js/2.769815ec.chunk.js.LICENSE"
+    "url": "/orpcy/static/js/2.ae5813b1.chunk.js.LICENSE"
   },
   {
-    "revision": "d30da79610a593d7b890",
-    "url": "/orpcy/static/js/main.a53256c0.chunk.js"
+    "revision": "02ac3c0778819cb2a10a",
+    "url": "/orpcy/static/js/main.a63ba477.chunk.js"
   },
   {
     "revision": "cbeae80c484a3a1b38a9",
@@ -134,10 +134,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3ec3891b37f8b0765b554f10806f0b3f",
     "url": "/orpcy/static/media/male1.3ec3891b.png"
-  },
-  {
-    "revision": "b20d3045687064315c246c26c5dc72fc",
-    "url": "/orpcy/static/media/p1.b20d3045.png"
   },
   {
     "revision": "7c0ff840224f44c006f0b082943b75a2",

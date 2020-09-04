@@ -21,7 +21,6 @@ import a1 from "../img/abstrax/a1.png";
 import a2 from "../img/abstrax/a2.png";
 import a3 from "../img/abstrax/a3.png";
 
-import p1 from "../img/send-it/p1.png";
 import p2 from "../img/send-it/p2.png";
 import p3 from "../img/send-it/p3.png";
 import p4 from "../img/send-it/p4.png";
@@ -47,7 +46,6 @@ export {
   a1,
   a2,
   a3,
-  p1,
   p2,
   p3,
   p4,

@@ -19,7 +19,6 @@ import {
   a1,
   a2,
   a3,
-  p1,
   p2,
   p3,
   p4,
@@ -44,9 +43,9 @@ class Portfolio extends React.Component {
           <div className="row">
             <div className="col-md-4">
               <div className="work-box">
-                <a href={p1} data-lightbox="gallery-mf">
+                <a href={p2} data-lightbox="gallery-mf">
                   <div className="work-img">
-                    <img src={p1} alt="" className="img-fluid" />
+                    <img src={p2} alt="" className="img-fluid" />
                   </div>
                   <div className="work-content">
                     <div className="row">
@@ -65,13 +64,6 @@ class Portfolio extends React.Component {
                       </div>
                     </div>
                   </div>
-                </a>
-                <a
-                  href={p2}
-                  data-lightbox="gallery-mf"
-                  style={{ display: "none" }}
-                >
-                  jsx-a11y/anchor-has-content warning
                 </a>
                 <a
                   href={p3}

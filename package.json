@@ -18,7 +18,7 @@
     "typed.js": "^2.0.10"
   },
   "scripts": {
-    "predeploy": "npm run build",
+    "predeploy": "rm -rf ./build && npm run build",
     "heroku-postbuild": "rm -rf ./build && npm run build",
     "deploy": "gh-pages -d build",
     "start-dev": "react-scripts start",

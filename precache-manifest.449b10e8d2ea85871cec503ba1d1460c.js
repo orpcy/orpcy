@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6734577faf8a3fcb3e07b8d7fe976e4b",
+    "revision": "9554ecfbb2b66d08d90620f78870059b",
     "url": "/orpcy/index.html"
   },
   {
-    "revision": "b45e4d3a0fb5caa98143",
-    "url": "/orpcy/static/css/2.8cf600a9.chunk.css"
+    "revision": "830fd6a1daa0f2f08bc6",
+    "url": "/orpcy/static/css/2.242f24fe.chunk.css"
   },
   {
-    "revision": "02ac3c0778819cb2a10a",
-    "url": "/orpcy/static/css/main.7ec781f4.chunk.css"
+    "revision": "a44d1d896955b2dab753",
+    "url": "/orpcy/static/css/main.36517fd7.chunk.css"
   },
   {
-    "revision": "b45e4d3a0fb5caa98143",
+    "revision": "830fd6a1daa0f2f08bc6",
     "url": "/orpcy/static/js/2.ae5813b1.chunk.js"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/orpcy/static/js/2.ae5813b1.chunk.js.LICENSE"
   },
   {
-    "revision": "02ac3c0778819cb2a10a",
-    "url": "/orpcy/static/js/main.a63ba477.chunk.js"
+    "revision": "a44d1d896955b2dab753",
+    "url": "/orpcy/static/js/main.356b9786.chunk.js"
   },
   {
     "revision": "cbeae80c484a3a1b38a9",
